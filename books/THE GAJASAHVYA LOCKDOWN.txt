@@ -1,5 +1,4 @@
-THE GAJASAHVYA LOCKDOWN
-PART ONE: THE INVESTIGATION BEGINS
+CHAPTER ONE: THE INVESTIGATION BEGINS
 The call comes at 3:58 AM.
 Phalguna is awake—he's been awake for most of the night, though not by choice. Sleep has become a thing that requires negotiation, a state his body resists with small electrical pulses that keep his mind moving in circles. The pills help. The psychiatrist says it's stress-related insomnia, normal for detectives at his level, and the pills—alprazolam, prescribed six weeks ago—create a kind of fog that makes the world slightly less sharp.
 He's been taking them consistently, plus clonazepam for the anxiety that surfaces between assignments, and the combination produces a particular effect: his hands are steady, his voice is controlled, his ability to process information is slightly delayed, as though he's experiencing the world through cotton.
@@ -108,7 +107,7 @@ The psychiatrist had warned him about withdrawal. Rebound insomnia. Anxiety. A k
 By the second night without medication, his hands are trembling. By the third night, the insomnia is severe enough to make him question the decision. But his mind is sharper—the cotton wrapping around his consciousness is thinning, and with the clarity comes understanding.
 He's been looking at the security footage wrong.
 ---
-PART TWO: THE DEEPER INVESTIGATION
+CHAPTER TWO: THE DEEPER INVESTIGATION
 The investigation enters a different phase when Phalguna brings his concerns to Srivastava.
 They sit in her office on the third floor, a space that's furnished with the kind of austere minimalism that suggests an unwillingness to make claims about one's interior life through decoration. Srivastava sits behind a desk that's almost painfully clean, and she listens while Phalguna walks her through what he's discovered.
 "The timeline is clean," Phalguna says. "Too clean. The security footage confirms everything the Commissioner confessed to. But there's a gap."
@@ -210,7 +209,7 @@ He thinks about the chemical residue. The unknown compound that Mehta hasn't bee
 He thinks about the synthetic taste in his mouth. The taste that keeps returning without explanation. The taste that carries fragments of something just beyond reach.
 He makes an appointment with K.V. Madhava.
 ---
-PART THREE: THE MEMORY GAPS
+CHAPTER THREE: THE MEMORY GAPS
 The city transforms at night.
 Phalguna walks through it for three days straight, unable to return to his apartment, unable to sit still, unable to process the knowledge that his body has committed an act that his mind has no record of. He walks through the financial district where the buildings are glass and steel and the lights never fully turn off. He walks through the old neighborhoods where the structures are deteriorating and the streets are narrower. He walks through parks and industrial areas and the red-light districts where the systems of order are more explicitly visible because they're more explicitly resisted.
 He walks under the sodium glare of streetlights. The courthouse, visible from almost everywhere in the city, catches the light and turns rust-colored. The city under sodium glare is the color of oxidized iron. The city is the color of decay. The city is exactly the color of the medication in his system.
@@ -257,7 +256,7 @@ He goes to the mirror and looks at his face. His face is the same face he's been
 He takes a shower. The medication is in his system and it's creating that particular cotton-wrapped quality, but beneath the cotton, there's something else. There's a knowledge that something has been done to him, that his body has been used in ways his consciousness was not aware of, that he's been broken down into component parts and reassembled.
 He thinks about not going to Madhava's office. He thinks about calling the lawyer and canceling. But something in him knows that he needs to hear what Madhava is going to say. He needs to understand the structure that's been imposed on him. He needs to know what's been done.
 ---
-PART FOUR: THE OFFICE
+CHAPTER FOUR: THE OFFICE
 Madhava's office is less imposing in the afternoon. The city lights outside the windows create a kind of transparency—the lawyer sits behind his desk and is backlit by the city's sprawl, a silhouette within the grid of streets.
 Phalguna takes the elevator to the thirty-second floor. He watches the city shrink beneath him. By the time he reaches the office, the courthouse is barely visible, just a marble spine among thousands of other structures.
 Madhava is waiting.
@@ -281,7 +280,7 @@ Phalguna opens his eyes. "What do you want from me?"
 "What choice?"
 "You'll know it when you arrive at it. The architecture is already in place. You're just moving through the spaces it's provided."
 ---
-PART FIVE: THE TEMPLE
+CHAPTER FIVE: THE TEMPLE
 Phalguna spends the next week at the temple.
 He doesn't go to work. He doesn't return to his apartment except to shower. He sits in the temple and watches the priest perform rituals and tries to understand what's happening to him through the strange logic of faith that doesn't require belief.
 The priest knows his name now. Or perhaps the priest always knew his name—there's a quality to the priest's attention that suggests he can see through people's surfaces into whatever is breaking down underneath.
@@ -298,7 +297,7 @@ The clarity doesn't come from recovery. The clarity comes from acceptance. The g
 He thinks about the younger version of himself, sitting in a forensic psychology classroom, believing that the distinction between body and person could be preserved. He thinks about how thoroughly that belief has been destroyed.
 He thinks about going back to work.
 ---
-PART SIX: THE PRE-TRIAL PREPARATION
+CHAPTER SIX: THE PRE-TRIAL PREPARATION
 Phalguna returns to the precinct on a Monday morning.
 His supervisor, Desai, seems unsurprised by his return. "You look like you've recovered," Desai says, but it's not a compliment. It's an observation about the fact that Phalguna has learned to function despite the internal collapse that's still occurring.
 "The investigation," Phalguna says. "I need to continue with it."
@@ -321,7 +320,7 @@ The second meeting happens in Madhava's office. The lawyer hands Phalguna a docu
 Phalguna reads through the document. Madhava has constructed a masterwork—a narrative that uses the actual evidence to point in a direction that protects the guilty while appearing to serve justice. The security footage gap is highlighted. The possibility of the internal cell camera being looped is suggested. The alternative narrative is constructed with such careful precision that a bench of judges could reasonably doubt.
 And Phalguna's own testimony will support all of it.
 ---
-PART SEVEN: THE TRIAL
+CHAPTER SEVEN: THE TRIAL
 The courtroom is arranged differently for a bench trial.
 There is no jury box. Instead, three judges sit elevated above the courtroom, positioned to observe both prosecution and defense with the kind of clinical distance that comes from years of processing human suffering through the lens of law. Judge Kapoor sits in the center. To her left is Judge Mehrotra, a man in his seventies who has presided over capital cases for forty years. To her right is Judge Sinha, a woman in her sixties who specializes in procedural law and has built a reputation for identifying evidentiary gaps that defense lawyers exploit.
 The prosecution's case is presented to these judges with the same methodical precision that would be used with a jury, but there's a difference in tone. The judges are not being asked to feel. They're being asked to evaluate whether the evidence meets the legal standard for conviction.
@@ -445,7 +444,7 @@ And then, at the end, it provides the verdict.
 The judgment is technically sound. The judges have not ignored the evidence. They have simply interpreted it in a way that provides the system with what it requires: stability, the preservation of institutional hierarchy, and the protection of those within that hierarchy from the consequences of institutional necessity.
 The Commissioner is released. He stands, nods to the judges with respect, and exits the courtroom. He does not look at Phalguna. He does not acknowledge the press. He simply walks into the afternoon, and the machinery of the system grinds forward.
 ---
-PART EIGHT: FUNCTIONAL NUMBNESS
+CHAPTER EIGHT: FUNCTIONAL NUMBNESS
 Two weeks after the acquittal, the Commissioner resigns from the police force.
 His resignation letter is brief and contains no explanation. Within a month, he's sold his apartment. Within two months, he's moved north to the mountains.
 Phalguna attends a meeting with his supervisor.
