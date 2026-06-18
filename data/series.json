@@ -1,0 +1,21 @@
+{
+  "series": {
+    "title": "THE GAJASAHVYA LOCKDOWN",
+    "subtitle": "Fractured Cynicism",
+    "tagline": "A neo-noir courtroom drama suspense thriller",
+    "badge": "Novel",
+    "synopsis": "",
+    "accentColor": "#C8832A",
+    "accentDim": "#7A4E18"
+  },
+  "books": [
+    {
+      "id": 1,
+      "slug": "THE GAJASAHVYA LOCKDOWN",
+      "title": "THE GAJASAHVYA LOCKDOWN",
+      "subtitle": "Novel",
+      "file": "books/THE GAJASAHVYA LOCKDOWN.txt",
+      "setting": "Present day"
+    }
+  ]
+}
