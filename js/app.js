@@ -234,8 +234,26 @@ function renderBookContent(book, rawText, index) {
   if (DOM.readingStatTotal) DOM.readingStatTotal.textContent = `~${ert} min`;
 }
 
+// ── TEXT PROCESSING ───────────────────────────────
+
+// Detects .txt files exported from Word/Google Docs with no blank
+// lines between paragraphs — every line-break is a paragraph break,
+// not a wrapped continuation, producing a single wall of text if
+// treated normally. Only triggers when blank lines are nearly absent
+// across a long-enough file, so normally-formatted files (with real
+// blank-line paragraph spacing) are never touched or altered.
+function detectSingleBreakFormat(lines) {
+  const nonEmpty = lines.filter(l => l.trim() !== '').length;
+  const empty    = lines.length - nonEmpty;
+  if (nonEmpty < 20) return false;            // too short to judge reliably
+  const blankRatio = empty / lines.length;
+  return blankRatio < 0.03;                   // almost no blank lines anywhere
+}
+
 function processBookText(rawText) {
-  const lines = rawText.split('\n');
+  const rawLines = rawText.split('\n');
+  const singleBreakMode = detectSingleBreakFormat(rawLines);
+
   let html = '';
   let chapterCount = 0;
   let paraBuffer = [];
@@ -246,8 +264,8 @@ function processBookText(rawText) {
     paraBuffer = [];
   };
 
-  for (let i = 0; i < lines.length; i++) {
-    const line = lines[i];
+  for (let i = 0; i < rawLines.length; i++) {
+    const line = rawLines[i];
     const trimmed = line.trim();
 
     // Chapter headings — CHAPTER 1, CHAPTER ONE, Chapter 1:, etc.
@@ -281,7 +299,14 @@ function processBookText(rawText) {
       continue;
     }
 
-    // Accumulate paragraph lines
+    // ── Single-break mode: every non-empty line is its own paragraph ──
+    if (singleBreakMode) {
+      paraBuffer.push(trimmed);
+      flushPara();
+      continue;
+    }
+
+    // Accumulate paragraph lines (normal mode — wait for blank line)
     paraBuffer.push(trimmed);
   }
 
